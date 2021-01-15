@@ -1,1 +1,3 @@
 My first exercise of git and github.
+
+This experience is vary important for my studies.
